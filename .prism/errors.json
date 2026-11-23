@@ -1,0 +1,16 @@
+{
+  "$comment": "Written by the Prism Obsidian plugin. `blocks` = status of the last render of each viz block, `errors` = errors of those renders, newest first. Line numbers are 1-based note lines. Entries are refreshed whenever a block renders in Obsidian (blocks render when visible). `interrupted` = the block was unloaded before it finished loading; render it with prism-render.mjs to get a result.",
+  "updated": "2026-11-23T17:04:16.638Z",
+  "blocks": {
+    "#h0fdc1eac91": {
+      "block": "#h0fdc1eac91",
+      "notePath": "",
+      "title": "A month of money",
+      "status": "ok",
+      "renderedAt": "2026-11-23T16:02:11.781Z",
+      "errors": 0,
+      "warnings": 0
+    }
+  },
+  "errors": []
+}

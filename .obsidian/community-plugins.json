@@ -1,11 +1,18 @@
 [
   "templater-obsidian",
-  "table-editor-obsidian",
   "obsidian-excalidraw-plugin",
   "obsidian-git",
   "dataview",
   "obsidian-tasks-plugin",
   "calendar",
   "pdf-plus",
-  "obsidian-importer"
+  "obsidian-importer",
+  "quickadd",
+  "periodic-notes",
+  "obsidian-spaced-repetition",
+  "obsidian-latex-suite",
+  "table-editor-obsidian",
+  "datacharts",
+  "prism-viz",
+  "attachment-management"
 ]

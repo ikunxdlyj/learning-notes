@@ -1,0 +1,39 @@
+
+/* ==============================
+   数学笔记紧凑排版
+   ============================== */
+
+/* 阅读模式：整体行高 */
+.markdown-preview-view {
+    line-height: 1.4;
+}
+
+/* 阅读模式：普通段落间距 */
+.markdown-preview-view p {
+    margin-block: 0.35em;
+}
+
+/* 阅读模式：数学公式块上下间距 */
+.markdown-preview-view .math-block {
+    margin-block: 0.35em !important;
+}
+
+/* 阅读模式：MathJax 公式间距 */
+.markdown-preview-view mjx-container[display="true"] {
+    margin: 0.15em 0 !important;
+}
+
+/* 编辑模式：文字行高 */
+.markdown-source-view.mod-cm6 .cm-line {
+    line-height: 1.35 !important;
+}
+
+/* 编辑模式：数学公式块间距 */
+.markdown-source-view.mod-cm6 .math-block {
+    margin-block: 0.35em !important;
+}
+
+/* 编辑模式：MathJax 公式间距 */
+.markdown-source-view.mod-cm6 mjx-container[display="true"] {
+    margin: 0.15em 0 !important;
+}
